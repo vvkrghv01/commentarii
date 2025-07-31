@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CommentariiApplication {
     /* git user check */
     /* git user check second */
+    /* git user check third */
 	public static void main(String[] args) {
 		SpringApplication.run(CommentariiApplication.class, args);
 	}
